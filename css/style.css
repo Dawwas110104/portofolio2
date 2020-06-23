@@ -1,0 +1,20 @@
+.home {
+	background-image: url('.../images/img.jpg');
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50% 50%;
+	min-height: 700px;
+	position: relative;
+	overflow: hidden;  
+}
+.home.title{
+	width: 100%;
+	height: 100%;
+	min-height: 700px;
+	position: absolute;
+	padding: 0 80px;
+	top:0;
+	background-color: rgb(0, 0, 0, 0.5);
+	 
+}
